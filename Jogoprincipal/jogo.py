@@ -23,7 +23,7 @@ velocidade = 11
 velocidade_obs = 20
 
 # Imagens
-fundo = pygame.image.load("Fundo.jpg")
+fundo = pygame.image.load("Cenario_2.png")
 pers = pygame.image.load("pers.png")
 teste1 = pygame.image.load('obstac1.png')
 teste2 = pygame.image.load('obstac2.png')
